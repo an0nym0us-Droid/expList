@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <ExpandableListView
+        android:id="@+id/lvExp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" 
+        android:groupIndicator="@null"
+        android:cacheColorHint="#00000000"
+	   	android:divider="#f0b547"
+	   	android:dividerHeight="1dp">
+    </ExpandableListView>
+
+</RelativeLayout>
