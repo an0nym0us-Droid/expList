@@ -27,21 +27,20 @@ public final class R {
         public static final int images=0x7f020003;
     }
     public static final class id {
-        public static final int action_settings=0x7f08000e;
-        public static final int desc=0x7f08000b;
-        public static final int dow=0x7f080005;
-        public static final int furtherDetails=0x7f080008;
-        public static final int listingid=0x7f080002;
-        public static final int lvExp=0x7f080000;
-        public static final int par=0x7f080001;
-        public static final int reminder=0x7f08000c;
-        public static final int showLogo=0x7f080003;
-        public static final int showLogoChannel=0x7f080009;
-        public static final int showview=0x7f080007;
-        public static final int sname=0x7f080004;
-        public static final int timing=0x7f080006;
-        public static final int watch=0x7f08000a;
-        public static final int watchlist=0x7f08000d;
+        public static final int action_settings=0x7f08000d;
+        public static final int desc=0x7f08000a;
+        public static final int dow=0x7f080004;
+        public static final int furtherDetails=0x7f080007;
+        public static final int listingid=0x7f080001;
+        public static final int par=0x7f080000;
+        public static final int reminder=0x7f08000b;
+        public static final int showLogo=0x7f080002;
+        public static final int showLogoChannel=0x7f080008;
+        public static final int showview=0x7f080006;
+        public static final int sname=0x7f080003;
+        public static final int timing=0x7f080005;
+        public static final int watch=0x7f080009;
+        public static final int watchlist=0x7f08000c;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
